@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Grace 👋
 
-<!--
-**graceyali/graceyali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## What I Build
+AI agents that automate sales development representative (SDR) workflows and supercharge productivity for sales teams. I focus on building specialized agents for real-world, high-impact business tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Working On
+
+🔨 **AI SDR Agents @ Salesforce** — Building AI-powered SDRs to automate outreach and qualification  
+📚 Currently learning how to apply AI agents to new industries, including legal, finance, and healthcare  
+🤝 Looking for collaborators and feedback on agent-centric products; open to exploring innovative AI roles
+
+---
+
+## Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/graceyali/)  
+- 📝 [Portfolio/Blog](#)  <!-- Add your link if you have one -->
+- 📧 [Email](mailto:grace.ya.li@gmail.com)
+
+---
+
+PM who builds things. Currently exploring the intersection of AI agents and new industries.
